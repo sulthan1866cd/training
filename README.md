@@ -12,7 +12,7 @@ check out live site [here](https://cd-b.netlify.app/)
 
 ![homwPage](</task3:html,css,js:banking/images/banking_home.png>)
 
-check out live site ![here](https://cd-banking.netlify.app/)
+check out live site [here](https://cd-banking.netlify.app/)
 
 ## task 4: HTML, CSS - nav_bar
 - A nav bar with nested menus and content appear on hovering menu items
