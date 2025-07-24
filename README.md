@@ -18,3 +18,6 @@ check out live site ![here](https://cd-banking.netlify.app/)
 - A nav bar with nested menus and content appear on hovering menu items
 
 ![img](</task4:html,css:navBar/images/navbar.png>)
+
+## task5 - js
+- implementations of various js functionalities and inbuilt methods
