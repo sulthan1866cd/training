@@ -3,6 +3,10 @@
 ## ajax
 - fetch new user detail every time when user clicks a button and rendering on web page without reloading the page
 
+## DynamicTable
+- dynamically created inputs to get number of rows and columns
+- created table layout based on given input
+
 ## json placeholder tabele
 - fetched array of jsons form jsonplaceholder api and dynamically created table with js
 - added fetures like search, sort, pagition for the table data
